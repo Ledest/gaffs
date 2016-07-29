@@ -1,0 +1,4 @@
+.rebar
+.eunit
+ebin
+erl_crash.dump

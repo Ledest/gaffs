@@ -1,0 +1,10 @@
+{application, gaffs, [{description, "Yet another generic plugin & hook system"},
+                      {vsn, "0.1.0"},
+                      {registered, [gaffs_sup]},
+                      {mod, {gaffs_app, []}},
+                      {applications, [kernel, stdlib]},
+                      {env,[]},
+                      {modules, []},
+                      {maintainers, ["Led"]},
+                      {licenses, ["GPLv3+"]},
+                      {links, [{"Github", "https://github.com/Ledest/gaffs"}]}]}.
