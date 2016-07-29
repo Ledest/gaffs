@@ -11,4 +11,4 @@ __Version:__ 0.1.0
 augment your application by adding hooks to your application aka
 [Hooking](https://en.wikipedia.org/wiki/Hooking).
 
-`gaffs` based on ideas of [hooks](https://github.com/Ledest/hooks.git).
+`gaffs` based on ideas of [hooks](https://github.com/barrel-db/hooks.git).
